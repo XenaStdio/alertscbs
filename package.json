@@ -1,0 +1,15 @@
+{
+  "name": "moo-cherry-alert-theme",
+  "version": "1.0.0",
+  "description": "Tema alert & widget donor **Sociabuzz** dan **Saweria** dengan nuansa cokelat choco beret + pita pink ala maskot MOO (senada foto karakter): maroon gelap, krem, pink pita `#E798AE`, aksen krem-gold `#F6E7B8`, spots maroon, dan hati pink berjatuhan. Badge softmax: \"MOO · CHERRY\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "gifenc": "^1.0.3",
+    "pngjs": "^7.0.0"
+  }
+}
